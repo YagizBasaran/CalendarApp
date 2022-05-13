@@ -163,4 +163,3 @@ public class ColorPalette extends JFrame implements ActionListener {
 
    
 }
- 
